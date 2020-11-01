@@ -1,0 +1,19 @@
+{
+  "name": "alberto/curso-frameworks-php-platzi",
+  "description": "Proyecto basico",
+  "authors": [
+    {
+      "name": "alberto",
+      "email": "alberto196g@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "app/helpers.php"
+    ]
+  }
+}
